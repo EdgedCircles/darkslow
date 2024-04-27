@@ -1,0 +1,9 @@
+You can use Google Cloud Search to look through everything ever uploaded to FCPS's shared google drive. You can exploit this for infinite proxies.
+
+Steps:
+1. Open a new tab in chrome.
+2. Click on the 9 dots/waffle. It will be next to your profile picture.
+3. Scroll down until you see cloud search, then click on it.
+4. Search "proxy", "proxies", "game", or "games" in the search bar.
+5. Click on anything that shows up.
+6. Profit.
