@@ -10,6 +10,6 @@ Note: even after running carbon, you will not be able to start exe files that yo
                                           
 ● Credit for Poshy's Carbon: https://sites.google.com/fcpsschools.net/gamebyteee/apps
 
-● Credit for cloud search info: Erytj
+● Credit for proxy info: Erytj
 
 -EdgedCircles
