@@ -4,7 +4,7 @@ There are two batch scripts that you can double-click to run. Darkshield prevent
 
 Note: even after running carbon, you will not be able to start exe files that you download. You'll still need games websites.
 
-# Warning: any consequences that befall you are entirely your fault.
+# Warning: any consequences for using these are entirely your fault.
 
 ● Credit for Darkshield: me
                                           
